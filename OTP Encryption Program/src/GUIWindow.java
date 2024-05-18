@@ -33,8 +33,8 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 
-/* AUTHOR: Scott Hall
- * DATE: Jan 16, 2023  
+/* AUTHOR: AgentNonchalant
+ * DATE: Jan 16, 2024  
 
  * PURPOSE: To describe our GUIWIndow class (This will design the look and feel of the window)
  * It will also describe component actions and their corresponding effects, as well as .txt resource organization, preference implementations, etc. 
