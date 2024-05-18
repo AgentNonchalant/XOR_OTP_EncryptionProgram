@@ -1,3 +1,6 @@
+# Plaintext, ciphertext, pad, and preference files that don't need to be tracked
+*.txt
+
 # Compiled class file
 *.class
 
