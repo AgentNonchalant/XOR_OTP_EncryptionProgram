@@ -1,7 +1,7 @@
 import java.security.SecureRandom;
 
-/* AUTHOR: Scott Hall
- * DATE: Jan 16, 2023  
+/* AUTHOR: AgentNonchalant
+ * DATE: Jan 16, 2024 
 
  * Purpose: To provide resources for OTP encryption and decryption. Inspired by Descent098's class on 
  * github.com (credited below), which I completely reworked for my GUI implementation.
