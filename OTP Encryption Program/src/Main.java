@@ -1,8 +1,8 @@
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 
-/* AUTHOR: Scott Hall
- * DATE: Jan 16, 2023  
+/* AUTHOR: AgentNonchalant
+ * DATE: Jan 16, 2024  
 
  * Purpose: To initialize a GUI window (We will actually use this file very little).
  */
